@@ -1,7 +1,7 @@
 kind: Pod
 apiVersion: v1
 metadata:
-  name: hello-pod
+  name: hello-pod1
   labels:
     zone: prod
     version: v1
