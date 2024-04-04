@@ -10,4 +10,4 @@ containers:
 - name: hello-ctr
 image: chhavijerath/k8/new/main
 ports:
-- containerPort: 8080
+- containerPort: 9090
